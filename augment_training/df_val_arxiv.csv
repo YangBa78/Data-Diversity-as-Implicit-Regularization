@@ -1,0 +1,887 @@
+text,label
+"Uncovering and Displaying the Coherent Groups of Rank Data by
+  Exploratory Riffle Shuffling",stat
+Maxmin Q-learning: Controlling the Estimation Bias of Q-learning,cs
+"PAI Data, Summary of the Project PAI Data Protocol",cs
+Fast Training of Sparse Graph Neural Networks on Dense Hardware,stat
+"On the Evaluation of Military Simulations: Towards A Taxonomy of
+  Assessment Criteria",cs
+"Summary of effect aliasing structure (SEAS): new descriptive statistics
+  for factorial and supersaturated designs",stat
+"Gaussian Process Model for Estimating Piecewise Continuous Regression
+  Functions",stat
+"A statistical test to reject the structural interpretation of a latent
+  factor model",stat
+Functional Regularisation for Continual Learning with Gaussian Processes,stat
+Flexible retrieval with NMSLIB and FlexNeuART,cs
+"Dynamic-TDD Interference Tractability Approaches and Performance
+  Analysis in Macro-Cell and Small-Cell Deployments",cs
+"Assessing Data Support for the Simplifying Assumption in Bivariate
+  Conditional Copulas",stat
+Learning and Inference in Imaginary Noise Models,stat
+"Multilingual Question Answering from Formatted Text applied to
+  Conversational Agents",cs
+"Graded Monads and Graded Logics for the Linear Time -- Branching Time
+  Spectrum",cs
+"Modelling High-Dimensional Categorical Data Using Nonconvex Fusion
+  Penalties",stat
+"Two-phase analysis and study design for survival models with error-prone
+  exposures",stat
+"SALT: Subspace Alignment as an Auxiliary Learning Task for Domain
+  Adaptation",stat
+Variational Orthogonal Features,stat
+"PAST-AI: Physical-layer Authentication of Satellite Transmitters via
+  Deep Learning",cs
+Reinforcement Learning Agents for Ubisoft's Roller Champions,cs
+"Demographic Inference and Representative Population Estimates from
+  Multilingual Social Media Data",cs
+"Cost Automata, Safe Schemes, and Downward Closures",cs
+Forensic Similarity for Digital Images,cs
+Dynamo -- Handling Scientific Data Across Sites and Storage Media,cs
+"Quasi-polynomial Algorithms for List-coloring of Nearly Intersecting
+  Hypergraphs",cs
+"El Volumen Louder Por Favor: Code-switching in Task-oriented Semantic
+  Parsing",cs
+"Nonparametric Bayesian Instrumental Variable Analysis: Evaluating
+  Heterogeneous Effects of Coronary Arterial Access Site Strategies",stat
+"Generalized probabilistic principal component analysis of correlated
+  data",stat
+Unbiased estimators for the variance of MMD estimators,stat
+Bayesian Inference with Generative Adversarial Network Priors,stat
+"Clustered Federated Learning: Model-Agnostic Distributed Multi-Task
+  Optimization under Privacy Constraints",cs
+"Sequential Image-based Attention Network for Inferring Force Estimation
+  without Haptic Sensor",cs
+"Scalable Bayesian regression in high dimensions with multiple data
+  sources",stat
+"Match-Ignition: Plugging PageRank into Transformer for Long-form Text
+  Matching",cs
+Fuzzy Discriminant Clustering with Fuzzy Pairwise Constraints,cs
+"Effect of social isolation in dengue cases in the state of Sao Paulo,
+  Brazil: an analysis during the COVID-19 pandemic",stat
+"Multimodal Transformer with Multi-View Visual Representation for Image
+  Captioning",cs
+Graph isomorphism in quasipolynomial time parameterized by treewidth,cs
+Generalized Autoregressive Moving Average Models with GARCH Errors,stat
+Statistical analysis of periodic data in neuroscience,stat
+"Medical-based Deep Curriculum Learning for Improved Fracture
+  Classification",cs
+Foundations of Reasoning with Uncertainty via Real-valued Logics,cs
+"A Semi-Automatic Method for History Matching using Sequential Monte
+  Carlo",stat
+"Overview of digital health surveillance system during COVID-19 pandemic:
+  public health issues and misapprehensions",cs
+Deep Tiling: Texture Tile Synthesis Using a Deep Learning Approach,cs
+Joint Entity and Relation Extraction with Set Prediction Networks,cs
+"Censored Semi-Bandits: A Framework for Resource Allocation with Censored
+  Feedback",cs
+"Randomized Hamiltonian Monte Carlo as Scaling Limit of the Bouncy
+  Particle Sampler and Dimension-Free Convergence Rates",stat
+Network modelling of topological domains using Hi-C data,stat
+"A novel initialisation based on hospital-resident assignment for the
+  k-modes algorithm",cs
+"Learning to Noise: Application-Agnostic Data Sharing with Local
+  Differential Privacy",cs
+Bayesian approach to Lorenz curve using time series grouped data,stat
+Doubly Robust Thompson Sampling for linear payoffs,stat
+"Controlling the EWMA S^2 control chart false alarm behavior when the
+  in-control variance level must be estimated",stat
+"Unweighted linear congruences with distinct coordinates and the
+  Varshamov--Tenengolts codes",cs
+"Scale mixture of skew-normal linear mixed models with within-subject
+  serial dependence",stat
+"Evaluating the Implicit Midpoint Integrator for Riemannian Manifold
+  Hamiltonian Monte Carlo",stat
+Retailer response to wholesale stockouts,stat
+Lasso for hierarchical polynomial models,stat
+Discovering Diverse Athletic Jumping Strategies,cs
+"Linear Optimal Transport Embedding: Provable fast Wasserstein distance
+  computation and classification for nonlinear problems",stat
+"T-optimal designs for multi-factor polynomial regression models via a
+  semidefinite relaxation method",stat
+A Flipped Classroom Approach to Teaching Empirical Software Engineering,cs
+Deep learning for prediction of complex geology ahead of drilling,stat
+Spectral estimation for spatial point patterns,stat
+Combining Partial Specifications using Alternating Interface Automata,cs
+"Survival analysis for AdVerse events with VarYing follow-up times
+  (SAVVY) -- comparison of adverse event risks in randomized controlled trials",stat
+Code smells detection and visualization: A systematic literature review,cs
+"An example of application of optimal sample allocation in a finite
+  population",stat
+VEST: Automatic Feature Engineering for Forecasting,stat
+Novel Relay Selection Protocol for Cooperative Networks,cs
+"An adaptive data-driven approach to solve real-world vehicle routing
+  problems in logistics",cs
+"The Hypothesis of Testing: Paradoxes arising out of reported coronavirus
+  case-counts",stat
+Distance approximation using Isolation Forests,stat
+Online Convex Optimization with Continuous Switching Constraint,cs
+A Novel Adaptive Kernel for the RBF Neural Networks,stat
+"Dissecting the statistical properties of the Linear Extrapolation Method
+  of determining protein stability",stat
+A General Method for Robust Learning from Batches,stat
+False Discovery Rates in Biological Networks,stat
+Two-Level Type Theory and Applications,cs
+Learned Factor Graphs for Inference from Stationary Time Sequences,cs
+"Individual Treatment Prescription Effect Estimation in a Low Compliance
+  Setting",stat
+"Kumaraswamy autoregressive moving average models for double bounded
+  environmental data",stat
+"A Novel 3D Non-Stationary Multi-Frequency Multi-Link Wideband MIMO
+  Channel Model",cs
+Censored Quantile Regression Forests,stat
+"The Projected Belief Network Classfier : both Generative and
+  Discriminative",stat
+"Estimation of the Number of Components of Non-Parametric Multivariate
+  Finite Mixture Models",stat
+"Differentiable Combinatorial Losses through Generalized Gradients of
+  Linear Programs",cs
+"Towards Soft Circuit Breaking in Service Meshes via Application-agnostic
+  Caching",cs
+Robust Federated Learning by Mixture of Experts,cs
+Estimation of separable direct and indirect effects in continuous time,stat
+"Models for Genetic Diversity Generated by Negative Binomial Point
+  Processes",stat
+Individually Fair Ranking,stat
+"Recovery of simultaneous low rank and two-way sparse coefficient
+  matrices, a nonconvex approach",stat
+Visual-Inertial Odometry of Aerial Robots,cs
+Estimating network memberships by simplex vertex hunting,stat
+Human mobility and COVID-19 initial dynamics,stat
+"Cooperative Double-IRS Aided Communication: Beamforming Design and Power
+  Scaling",cs
+Argumentation for Explainable Scheduling (Full Paper with Proofs),cs
+"Secure Transmission Strategy for Intelligent Reflecting Surface Enhanced
+  Wireless System",cs
+"Manifold Markov chain Monte Carlo methods for Bayesian inference in a
+  wide class of diffusion models",stat
+"Practical Hilbert space approximate Bayesian Gaussian processes for
+  probabilistic programming",stat
+"Double Cross Validation for the Number of Factors in Approximate Factor
+  Models",stat
+Insights on Variance Estimation for Blocked and Matched Pairs Designs,stat
+Universal Source-Free Domain Adaptation,cs
+"A Deep Transfer Learning-based Edge Computing Method for Home Health
+  Monitoring",cs
+Extreme Compressive Sampling for Covariance Estimation,stat
+Calibrated Prediction Intervals for Neural Network Regressors,stat
+Safe Learning under Uncertain Objectives and Constraints,cs
+Optimal designs for model averaging in non-nested models,stat
+Time-evolving psychological processes over repeated decisions,stat
+Error-guided likelihood-free MCMC,stat
+AffWild Net and Aff-Wild Database,cs
+Inference for extreme values under threshold-based stopping rules,stat
+"Bayesian Algorithm Execution: Estimating Computable Properties of
+  Black-box Functions Using Mutual Information",stat
+"Effective Estimation of Contact Force and Torque for Vision-based
+  Tactile Sensor with Helmholtz-Hodge Decomposition",cs
+Disentangling Action Sequences: Discovering Correlated Samples,cs
+"Derivative-Based Koopman Operators for Real-Time Control of Robotic
+  Systems",stat
+Learning CHARME models with neural networks,stat
+"Federated Learning with Autotuned Communication-Efficient Secure
+  Aggregation",cs
+On First-Order Model-Based Reasoning,cs
+"A spatial dependence graph model for multivariate spatial hybrid
+  processes",stat
+Universal Approximation in Dropout Neural Networks,cs
+From Pixels to Affect: A Study on Games and Player Experience,cs
+Mobile phone data and COVID-19: Missing an opportunity?,cs
+EigenGame: PCA as a Nash Equilibrium,cs
+"Gamification of Enterprise Systems: A Synthesis of Mechanics, Dynamics,
+  and Risks",cs
+"Black-box Combinatorial Optimization using Models with Integer-valued
+  Minima",cs
+"Optimal Designs for Second-Order Interactions in Paired Comparison
+  Experiments with Binary Attributes",stat
+A one-way ANOVA test for functional data with graphical interpretation,stat
+"Learning a latent pattern of heterogeneity in the innovation rates of a
+  time series of counts",stat
+"Attack of the Tails: Yes, You Really Can Backdoor Federated Learning",cs
+"Effective Fusion of Deep Multitasking Representations for Robust Visual
+  Tracking",cs
+POND: Pessimistic-Optimistic oNline Dispatching,cs
+"HEDGE: Efficient Traffic Classification of Encrypted and Compressed
+  Packets",cs
+Engineering Human Values in Software through Value Programming,cs
+Automatic sequences: from rational bases to trees,cs
+On the Joint Typicality of Permutations of Sequences of Random Variables,cs
+"A Text Mining Discovery of Similarities and Dissimilarities Among Sacred
+  Scriptures",stat
+"A laboratory-created dataset with ground-truth for hyperspectral
+  unmixing evaluation",cs
+"Energy-Efficient Job-Assignment Policy with Asymptotically Guaranteed
+  Performance Deviation",cs
+A Bridge Between Hyperparameter Optimization and Learning-to-learn,stat
+"Solving the Order Batching and Sequencing Problem using Deep
+  Reinforcement Learning",cs
+"Spatial variation in the basic reproduction number of COVID-19: A
+  systematic review",stat
+A Statistical Approach to Assessing Neural Network Robustness,stat
+Gradient Boosts the Approximate Vanishing Ideal,stat
+On the Use of Random Forest for Two-Sample Testing,stat
+"Approximate Bayesian inference for a ""steps and turns"" continuous-time
+  random walk observed at regular time intervals",stat
+Running on empty: Recharge dynamics from animal movement data,stat
+"Fundamental Limits of Spectrum Sharing for NOMA-Based Cooperative
+  Relaying Under a Peak Interference Constraint",cs
+"Estimate Sequences for Variance-Reduced Stochastic Composite
+  Optimization",stat
+"Statistical Consequences of Fat Tails: Real World Preasymptotics,
+  Epistemology, and Applications",stat
+"Structure Learning from Related Data Sets with a Hierarchical Bayesian
+  Score",stat
+Accelerated Large Batch Optimization of BERT Pretraining in 54 minutes,cs
+Travel Time Prediction using Tree-Based Ensembles,stat
+A Scalable FPGA-based Architecture for Depth Estimation in SLAM,cs
+Dynamic Sasvi: Strong Safe Screening for Norm-Regularized Least Squares,stat
+Learning Schatten--von Neumann Operators,stat
+On Reductions of Hintikka Sets for Higher-Order Logic,cs
+"A Spatiotemporal Functional Model for Bike-Sharing Systems -- An Example
+  based on the City of Helsinki",stat
+Compressed Sensing with Deep Image Prior and Learned Regularization,stat
+Resolvable Designs for Speeding up Distributed Computing,cs
+Multivariate time series models for mixed data,stat
+Replicated Vector Approximate Message Passing For Resampling Problem,stat
+Interpretable Random Forests via Rule Extraction,stat
+Optimal Confidence Regions for the Multinomial Parameter,stat
+"Blindness of score-based methods to isolated components and mixing
+  proportions",stat
+"Interpretability-Driven Sample Selection Using Self Supervised Learning
+  For Disease Classification And Segmentation",cs
+"Knowing what you know: valid and validated confidence sets in multiclass
+  and multilabel prediction",stat
+List Decoding with Double Samplers,cs
+"Conditional Precedence Orders for Stochastic Comparison of Random
+  Variables",stat
+"Data science is science's second chance to get causal inference right: A
+  classification of data science tasks",stat
+"Enhancing Text-based Reinforcement Learning Agents with Commonsense
+  Knowledge",cs
+A Neural Turing~Machine for Conditional Transition Graph Modeling,cs
+"Hybridizing the 1/5-th Success Rule with Q-Learning for Controlling the
+  Mutation Rate of an Evolutionary Algorithm",cs
+High-Dimensional Spatial Quantile Function-on-Scalar Regression,stat
+Private Information Delivery,cs
+"Jump Operator Planning: Goal-Conditioned Policy Ensembles and Zero-Shot
+  Transfer",cs
+A Global Stochastic Optimization Particle Filter Algorithm,stat
+Hierarchical Kinematic Human Mesh Recovery,cs
+Analysing Neural Network Topologies: a Game Theoretic Approach,cs
+matrixdist: An R Package for Inhomogeneous Phase-Type Distributions,stat
+"A Comprehensive Performance Analysis for mm-Wave Massive MIMO Hybrid
+  Beamforming under PA Nonlinearities",cs
+Dynamic Complexity Meets Parameterised Algorithms,cs
+"Fast Fixed Dimension L2-Subspace Embeddings of Arbitrary Accuracy, With
+  Application to L1 and L2 Tasks",cs
+"Maximal adversarial perturbations for obfuscation: Hiding certain
+  attributes while preserving rest",cs
+Sequential online subsampling for thinning experimental designs,stat
+"Calibration of the Pareto and related distributions -a
+  reference-intrinsic approach",stat
+Error-Correcting Neural Sequence Prediction,cs
+"Validating Gravity-Based Market Share Models Using Large-Scale
+  Transactional Data",stat
+Generalizing Information to the Evolution of Rational Belief,cs
+Applications of Social Media in Hydroinformatics: A Survey,cs
+"CoT-AMFlow: Adaptive Modulation Network with Co-Teaching Strategy for
+  Unsupervised Optical Flow Estimation",cs
+"Minimal sample size in balanced ANOVA models of crossed, nested and
+  mixed classifications",stat
+"Modeling Users and Online Communities for Abuse Detection: A Position on
+  Ethics and Explainability",cs
+Realizing the Frugal 5G Network,cs
+"TeethTap: Recognizing Discrete Teeth Gestures Using Motion and Acoustic
+  Sensing on an Earpiece",cs
+"Who Can Find My Devices? Security and Privacy of Apple's Crowd-Sourced
+  Bluetooth Location Tracking System",cs
+Generate What You Can't See - a View-dependent Image Generation,cs
+"Intelligent Reflecting Surface Operation under Predictable Receiver
+  Mobility: A Continuous Time Propagation Model",cs
+"Hierarchical Indian Buffet Neural Networks for Bayesian Continual
+  Learning",stat
+Ensemble Slice Sampling,stat
+Sparsity-Agnostic Lasso Bandit,stat
+Discounted Reinforcement Learning Is Not an Optimization Problem,cs
+"Computer model calibration based on image warping metrics: an
+  application for sea ice deformation",stat
+"Model-based Clustering using Automatic Differentiation: Confronting
+  Misspecification and High-Dimensional Data",stat
+"Probabilistic forecasting approaches for extreme NO$_2$ episodes: a
+  comparison of models",stat
+Metrics for Learning in Topological Persistence,cs
+"GeoSPARQL+: Syntax, Semantics and System for Integrated Querying of
+  Graph, Raster and Vector Data -- Technical Report",cs
+"On shuffle products, acyclic automata and piecewise-testable languages",cs
+From unbiased MDI Feature Importance to Explainable AI for Trees,stat
+Choosing among notions of multivariate depth statistics,stat
+Bayesian Batch Active Learning as Sparse Subset Approximation,stat
+Deconfounded Image Captioning: A Causal Retrospect,cs
+Investigating Societal Biases in a Poetry Composition System,cs
+A generalization of regularized dual averaging and its dynamics,stat
+Survival Function Matching for Calibrated Time-to-Event Predictions,stat
+EXPLAINABOARD: An Explainable Leaderboard for NLP,cs
+Lifelong Generative Modeling,stat
+Transporting stochastic direct and indirect effects to new populations,stat
+Nonparametric Bayesian volatility estimation,stat
+BaCOUn: Bayesian Classifers with Out-of-Distribution Uncertainty,stat
+"Scientific elite revisited: Patterns of productivity, collaboration,
+  authorship and impact",cs
+On the definition of a concentration function relevant to the ROC curve,stat
+"Automatic, Dynamic, and Nearly Optimal Learning Rate Specification by
+  Local Quadratic Approximation",stat
+"Bayesian mitigation of spatial coarsening for a fairly flexible
+  spatiotemporal Hawkes model",stat
+"Direct Estimation of Difference Between Structural Equation Models in
+  High Dimensions",stat
+Evaluating Fairness in the Presence of Spatial Autocorrelation,stat
+Robust conditional GANs under missing or uncertain labels,stat
+Representativity Fairness in Clustering,cs
+Bayesian hierarchical weighting adjustment and survey inference,stat
+Template Matching Route Classification,stat
+"Merging versus Ensembling in Multi-Study Machine Learning: Theoretical
+  Insight from Random Effects",stat
+"Double Refinement Network for Efficient Indoor Monocular Depth
+  Estimation",cs
+Recycling intermediate steps to improve Hamiltonian Monte Carlo,stat
+"Exact Bootstrap and Permutation Distribution of Wins and Losses in a
+  Hierarchical Trial",stat
+"An Optimal Test for the Additive Model with Discrete or Categorical
+  Predictors",stat
+"Entropy methods for the confidence assessment of probabilistic
+  classification models",stat
+"Deep Mixed Effect Model using Gaussian Processes: A Personalized and
+  Reliable Prediction for Healthcare",stat
+$V$-statistics and Variance Estimation,stat
+"gym-gazebo2, a toolkit for reinforcement learning using ROS 2 and Gazebo",cs
+The ADAPT Enhanced Dependency Parser at the IWPT 2020 Shared Task,cs
+Adjustment for Biased Sampling Using NHANES Derived Propensity Weights,stat
+Estimation of Climbing Route Difficulty using Whole-History Rating,stat
+"Mixed pooling of seasonality for time series forecasting: An application
+  to pallet transport data",stat
+"Temporal Wasserstein non-negative matrix factorization for non-rigid
+  motion segmentation and spatiotemporal deconvolution",stat
+"Generalised Joint Regression for Count Data with a Focus on Modelling
+  Football Matches",stat
+"A Vecchia Approximation for High-Dimensional Gaussian Cumulative
+  Distribution Functions Arising from Spatial Data",stat
+Improving the Fairness of Deep Generative Models without Retraining,cs
+Bayesian Gates for Reliable Logical Operations under Noisy Condition,cs
+COVID-19 Clinical footprint to infer about mortality,stat
+Distilling Causal Effect of Data in Class-Incremental Learning,cs
+Conservation of the $t$-digest Scale Invariant,stat
+Blockene: A High-throughput Blockchain Over Mobile Devices,cs
+Maximizing Energy Battery Efficiency in Swarm Robotics,cs
+Variations on a Theme by Massey,cs
+"Nested Network with Two-Stream Pyramid for Salient Object Detection in
+  Optical Remote Sensing Images",cs
+Two-hand Global 3D Pose Estimation Using Monocular RGB,cs
+Auditing ML Models for Individual Bias and Unfairness,stat
+"Asymptotic Errors for Teacher-Student Convex Generalized Linear Models
+  (or : How to Prove Kabashima's Replica Formula)",stat
+Learning-to-Rank with BERT in TF-Ranking,cs
+"Implementing version control with Git and GitHub as a learning objective
+  in statistics and data science courses",stat
+Hybrid-Learning approach toward situation recognition and handling,cs
+Estimating Individualized Decision Rules with Tail Controls,stat
+"On Optimizing the Trade-off between Privacy and Utility in Data
+  Provenance",cs
+Survey Data and Human Computation for Improved Flu Tracking,stat
+Catch Me If You Can,cs
+Choice-Aware User Engagement Modeling andOptimization on Social Media,cs
+Examining Citations of Natural Language Processing Literature,cs
+"Schr\""odinger Bridge Samplers",stat
+"Assessing Performance Implications of Deep Copy Operations via
+  Microbenchmarking",cs
+"Stochastic Security: Adversarial Defense Using Long-Run Dynamics of
+  Energy-Based Models",stat
+"Can the state of relevant neurons in a deep neural networks serve as
+  indicators for detecting adversarial attacks?",cs
+Isometric Gaussian Process Latent Variable Model for Dissimilarity Data,stat
+"Improved GM(1,1) model based on Simpson formula and its applications",stat
+IXmon: Detecting and Analyzing DRDoS Attacks at Internet Exchange Points,cs
+BIVA: A Very Deep Hierarchy of Latent Variables for Generative Modeling,stat
+Frivolous Units: Wider Networks Are Not Really That Wide,cs
+"Incorporating External Knowledge into Machine Reading for Generative
+  Question Answering",cs
+Steganographic Generative Adversarial Networks,cs
+"Boost-S: Gradient Boosted Trees for Spatial Data and Its Application to
+  FDG-PET Imaging Data",stat
+"Power prior models for treatment effect estimation in a small n,
+  sequential, multiple assignment, randomized trial",stat
+On the CAD-compatible conversion of S-patches,cs
+Intelligent Methods for Accurately Detecting Phishing Websites,cs
+An Optimistic Acceleration of AMSGrad for Nonconvex Optimization,stat
+Embedding-based system for the Text part of CALL v3 shared task,cs
+"The bivariate $K$-finite normal mixture ""blanket"" copula: an application
+  to driving patterns",stat
+"Approximating exponential family models (not single distributions) with
+  a two-network architecture",stat
+"Intelligent Reflecting Surface Assisted Multi-User MISO Communication:
+  Channel Estimation and Beamforming Design",cs
+Robustness to Adversarial Perturbations in Learning from Incomplete Data,stat
+A Latent Slice Sampling Algorithm,stat
+The battle of total-order sensitivity estimators,stat
+Factorisable Multitask Quantile Regression,stat
+COHORTNEY: Deep Clustering for Heterogeneous Event Sequences,cs
+"Probability Assessments of an Ice-Free Arctic: Comparing Statistical and
+  Climate Model Projections",stat
+"When to reply? Context Sensitive Models to Predict Instructor
+  Interventions in MOOC Forums",cs
+"Detecting corruption in single-bidder auctions via positive-unlabelled
+  learning",cs
+"Low-dimensional Interpretable Kernels with Conic Discriminant Functions
+  for Classification",cs
+A New Deterministic Technique for Symbolic Regression,cs
+Bayesian Meta-analysis of Rare Events with Non-ignorable Missing Data,stat
+"Leveraging the Fisher randomization test using confidence distributions:
+  inference, combination and fusion learning",stat
+"Tiny-Inception-ResNet-v2: Using Deep Learning for Eliminating Bonded
+  Labors of Brick Kilns in South Asia",cs
+Movement Tracking by Optical Flow Assisted Inertial Navigation,cs
+Connected Subgraph Defense Games,cs
+"Robust Behavioral Cloning for Autonomous Vehicles using End-to-End
+  Imitation Learning",cs
+"Optimizing Adaptive Video Streaming in Mobile Networks via Online
+  Learning",cs
+Efforts estimation of doctors annotating medical image,cs
+"Estimation of parameters of the logistic exponential distribution under
+  progressive type-I hybrid censored sample",stat
+Trajectory Functional Boxplots,stat
+"Cross-Cultural Polarity and Emotion Detection Using Sentiment Analysis
+  and Deep Learning -- a Case Study on COVID-19",cs
+Estimating prediction error for complex samples,stat
+Grid Computing Model for Mobile: A Better Mobile Grid Computing Model,cs
+Fixed Priority Global Scheduling from a Deep Learning Perspective,cs
+UniDual: A Unified Model for Image and Video Understanding,cs
+High order concentrated non-negative matrix-exponential functions,cs
+A Spectral Regularizer for Unsupervised Disentanglement,stat
+"Fast Enhanced CT Metal Artifact Reduction using Data Domain Deep
+  Learning",cs
+Modeling high-dimensional dependence among astronomical data,stat
+Communication-efficient distributed eigenspace estimation,stat
+"Dealing with Nuisance Parameters using Machine Learning in High Energy
+  Physics: a Review",stat
+Visually Analyzing and Steering Zero Shot Learning,cs
+Testing for Network and Spatial Autocorrelation,stat
+Avoiding Latent Variable Collapse With Generative Skip Models,stat
+UAV Communications for 5G and Beyond: Recent Advances and Future Trends,cs
+Elementos da teoria de aprendizagem de m\'aquina supervisionada,cs
+"Towards Generation and Evaluation of Comprehensive Mapping Robot
+  Datasets",cs
+Optimal Adaptive Matrix Completion,cs
+"Masked Conditional Neural Networks for Automatic Sound Events
+  Recognition",cs
+"Importance sampling correction versus standard averages of reversible
+  MCMCs in terms of the asymptotic variance",stat
+"Bayesian inference of heterogeneous epidemic models: Application to
+  COVID-19 spread accounting for long-term care facilities",stat
+"MuSE-ing on the Impact of Utterance Ordering On Crowdsourced Emotion
+  Annotations",cs
+Proportionality and the Limits of Welfarism,cs
+Secure Medical Image Analysis with CrypTFlow,cs
+Spectral embedding of weighted graphs,stat
+"ReActNet: Temporal Localization of Repetitive Activities in Real-World
+  Videos",cs
+"Radial Bayesian Neural Networks: Beyond Discrete Support In Large-Scale
+  Bayesian Deep Learning",stat
+"Applying Computer Algebra Systems with SAT Solvers to the Williamson
+  Conjecture",cs
+Equation satisfiability in solvable groups,cs
+"GPP, the Generic Preprocessor",cs
+"Domination Number of an Interval Catch Digraph Family and its use for
+  Testing Uniformity",stat
+Estimating Treatment Effects with Observed Confounders and Mediators,stat
+On cointegration for modeling and forecasting wind power production,stat
+Relative concentration bounds for the spectrum of kernel matrices,stat
+Clinically Relevant Mediation Analysis using Controlled Indirect Effect,stat
+Near-Optimal Cayley Expanders for Abelian Groups,cs
+"Towards Understanding and Modeling Empathy for Use in Motivational
+  Design Thinking",cs
+Deep Quantile Aggregation,stat
+On a Variational Approximation based Empirical Likelihood ABC Method,stat
+"Image Super-Resolution with Cross-Scale Non-Local Attention and
+  Exhaustive Self-Exemplars Mining",cs
+On an Induced Distribution and its Statistical Properties,stat
+Learning Latent Dynamics for Partially-Observed Chaotic Systems,stat
+"A low-overhead soft-hard fault-tolerant architecture, design and
+  management scheme for reliable high-performance many-core 3D-NoC systems",cs
+"Performance Evalution of 3D Keypoint Detectors and Descriptors for
+  Plants Health Classification",cs
+"Enabling Cost-Effective Population Health Monitoring By Exploiting
+  Spatiotemporal Correlation: An Empirical Study",stat
+"Common Growth Patterns for Regional Social Networks: a Point Process
+  Approach",stat
+Discovering Dialog Structure Graph for Open-Domain Dialog Generation,cs
+"Fast Calibration of a Robust Model Predictive Controller for Diesel
+  Engine Airpath",cs
+"Vulnerability Assessment of Large-scale Power Systems to False Data
+  Injection Attacks",cs
+"Universal Adversarial Attacks with Natural Triggers for Text
+  Classification",cs
+Exploiting NOMA for UAV Communications in Large-Scale Cellular Networks,cs
+"Tree-Projected Gradient Descent for Estimating Gradient-Sparse
+  Parameters on Graphs",stat
+"State Identification for Labeled Transition Systems with Inputs and
+  Outputs",cs
+Testing the fit of relational models,stat
+"Bounds of MIN_NCC and MAX_NCC and filtering scheme for graph domain
+  variables",cs
+"Sense and Sensitivity Analysis: Simple Post-Hoc Analysis of Bias Due to
+  Unobserved Confounding",stat
+Particle rolling MCMC,stat
+"DINA: Estimating Heterogenous Treatment Effects in Exponential Family
+  and Cox Model",stat
+"TSDAE: Using Transformer-based Sequential Denoising Auto-Encoder for
+  Unsupervised Sentence Embedding Learning",cs
+"Estimating a novel stochastic model for within-field disease dynamics of
+  banana bunchy top virus via approximate Bayesian computation",stat
+No-Regret Bayesian Optimization with Unknown Hyperparameters,stat
+"A blockchain-orchestrated Federated Learning architecture for healthcare
+  consortia",cs
+Multi-agent Aerial Monitoring of Moving Convoys using Elliptical Orbits,cs
+"Adaptive Multi-View ICA: Estimation of noise levels for optimal
+  inference",stat
+A Law of Robustness for Weight-bounded Neural Networks,stat
+Recipes for Safety in Open-domain Chatbots,cs
+"Accurate Entrance Position Detection Based on Wi-Fi and GPS Signals
+  Using Machine Learning",cs
+"Multimedia Crowdsourcing with Bounded Rationality: A Cognitive Hierarchy
+  Perspective",cs
+"Bounds on the conditional and average treatment effect with unobserved
+  confounding factors",stat
+Low Distortion Block-Resampling with Spatially Stochastic Networks,stat
+"Cox regression analysis for distorted covariates with an unknown
+  distortion function",stat
+Learnable Motion Coherence for Correspondence Pruning,cs
+Quantile regression for compositional covariates,stat
+Challenges of Applying E-Learning in the Libyan Higher Education System,cs
+Generative Models for Automatic Chemical Design,cs
+"Instrumental variable estimation of early treatment effect in randomized
+  screening trials",stat
+A General Upper Bound for Unsupervised Domain Adaptation,cs
+"Generalization Properties of Optimal Transport GANs with Latent
+  Distribution Learning",stat
+"Accounting for total variation and robustness in profiling health care
+  providers",stat
+Reconstructing Sparse Signals via Greedy Monte-Carlo Search,stat
+A Comprehensive Review of Skeleton-based Movement Assessment Methods,cs
+Model-Driven Process Enactment for NFV Systems with MAPLE,cs
+Competition-based control of the false discovery proportion,stat
+"The Bottom-up Evolution of Representations in the Transformer: A Study
+  with Machine Translation and Language Modeling Objectives",cs
+"Importance Sampling-based Transport Map Hamiltonian Monte Carlo for
+  Bayesian Hierarchical Models",stat
+Dynamic Tensor Recommender Systems,stat
+Bernoulli Race Particle Filters,stat
+"Optimal sample size for the Birnbaum-Saunders distribution under a
+  decision-theoretic approach",stat
+Deep Fluids: A Generative Network for Parameterized Fluid Simulations,cs
+Component-wise approximate Bayesian computation via Gibbs-like steps,stat
+A realistic and robust model for Chinese word segmentation,cs
+"ALMA: Alternating Minimization Algorithm for Clustering Mixture
+  Multilayer Network",stat
+Cerny-Starke conjecture from the sixties of XX century,cs
+"Graphs, Entities, and Step Mixture",cs
+"PC-GAIN: Pseudo-label Conditional Generative Adversarial Imputation
+  Networks for Incomplete Data",cs
+"Bayesian bandwidth estimation for local linear fitting in nonparametric
+  regression models",stat
+"Improving Map Re-localization with Deep 'Movable' Objects Segmentation
+  on 3D LiDAR Point Clouds",cs
+"Promise and Challenges of a Data-Driven Approach for Battery Lifetime
+  Prognostics",stat
+Selective prediction-set models with coverage guarantees,stat
+A Non-Asymptotic Analysis for Stein Variational Gradient Descent,stat
+An Overview Of 3D Object Detection,cs
+Using Multiple Imputation to Classify Potential Outcomes Subgroups,stat
+"On the Use of Information Criteria for Subset Selection in Least Squares
+  Regression",stat
+A Hybrid Algorithm for Metaheuristic Optimization,cs
+"Ensemble Learning with Manifold-Based Data Splitting for Noisy Label
+  Correction",cs
+"Calibrated Optimal Decision Making with Multiple Data Sources and
+  Limited Outcome",stat
+"Developing a large scale population screening tool for the assessment of
+  Parkinson's disease using telephone-quality voice",stat
+Embedded Agency,cs
+A Hybrid Approximation to the Marginal Likelihood,stat
+"Estimate Sequences for Stochastic Composite Optimization: Variance
+  Reduction, Acceleration, and Robustness to Noise",stat
+Principles of Information Storage in Small-Molecule Mixtures,cs
+"Harmonic-aligned Frame Mask Based on Non-stationary Gabor Transform with
+  Application to Content-dependent Speaker Comparison",cs
+"Estimating densities with nonlinear support using Fisher-Gaussian
+  kernels",stat
+"TSEC: a framework for online experimentation under experimental
+  constraints",stat
+"Adversarial Networks and Autoencoders: The Primal-Dual Relationship and
+  Generalization Bounds",stat
+"Learning Gaussian Graphical Models with Ordered Weighted L1
+  Regularization",stat
+"Approximate spectral gaps for Markov chains mixing times in high
+  dimensions",stat
+"Real-Time 3D Profiling with RGB-D Mapping in Pipelines Using Stereo
+  Camera Vision and Structured IR Laser Ring",cs
+"A Semantic Framework for Enabling Radio Spectrum Policy Management and
+  Evaluation",cs
+Deep Generative Markov State Models,stat
+"A Music-generating System Inspired by the Science of Complex Adaptive
+  Systems",cs
+"PlayeRank: data-driven performance evaluation and player ranking in
+  soccer via a machine learning approach",stat
+"A flat persistence diagram for improved visualization of persistent
+  homology",stat
+"Toward Underground Localization: Lidar Inertial Odometry Enabled Aerial
+  Robot Navigation",cs
+Sequential Solutions in Machine Scheduling Games,cs
+"Who Learns Better Bayesian Network Structures: Accuracy and Speed of
+  Structure Learning Algorithms",stat
+"Block models for multipartite networks.Applications in ecology and
+  ethnobiology",stat
+Few-Shot Learning for Road Object Detection,cs
+"Think-aloud interviews: A tool for exploring student statistical
+  reasoning",stat
+"New Development of Bayesian Variable Selection Criteria for Spatial
+  Point Process with Applications",stat
+Secure Group Testing,cs
+Sampling strategies for fast updating of Gaussian Markov random fields,stat
+Learning Diverse Fashion Collocation by Neural Graph Filtering,cs
+Quantification of the Leakage in Federated Learning,cs
+"A reinforcement learning based decision support system in textile
+  manufacturing process",cs
+"Bayesian Modeling of Spatial Transcriptomics Data via a Modified Ising
+  Model",stat
+"Speeding Up Private Distributed Matrix Multiplication via Bivariate
+  Polynomial Codes",cs
+"The Multivariate Hawkes Process in High Dimensions: Beyond Mutual
+  Excitation",stat
+"To Aid Scientific Inference, Emphasize Unconditional Descriptions of
+  Statistics",stat
+"Doubly Robust Nonparametric Instrumental Variable Estimators for
+  Survival Outcomes",stat
+Distilling Knowledge From a Deep Pose Regressor Network,cs
+SelfPose: 3D Egocentric Pose Estimation from a Headset Mounted Camera,cs
+"The FLOod Probability Interpolation Tool (FLOPIT): Improving Spatial
+  Flood Probability Quantification and Communication Through Higher Resolution
+  Mapping",stat
+"One Network Fits All? Modular versus Monolithic Task Formulations in
+  Neural Networks",cs
+Regret in Online Recommendation Systems,stat
+"Learning from Large-scale Noisy Web Data with Ubiquitous Reweighting for
+  Image Classification",cs
+Incomplete Reparameterizations and Equivalent Metrics,stat
+Accurate inference in negative binomial regression,stat
+Sparsistent filtering of comovement networks from high-dimensional data,stat
+"A Survey on Modulation Techniques in Molecular Communication via
+  Diffusion",cs
+"A comparison of learning rate selection methods in generalized Bayesian
+  inference",stat
+"Retargetable AR: Context-aware Augmented Reality in Indoor Scenes based
+  on 3D Scene Graph",cs
+"Variational Mixture-of-Experts Autoencoders for Multi-Modal Deep
+  Generative Models",stat
+Flexible Mixture Modeling on Constrained Spaces,stat
+VSEC-LDA: Boosting Topic Modeling with Embedded Vocabulary Selection,cs
+DenseFusion: 6D Object Pose Estimation by Iterative Dense Fusion,cs
+Curriculum Learning for Domain Adaptation in Neural Machine Translation,cs
+"Universal Hypothesis Testing with Kernels: Asymptotically Optimal Tests
+  for Goodness of Fit",stat
+Bayesian estimation of the functional spatial lag model,stat
+A Modified Sequential Probability Ratio Test,stat
+"Rejoinder: On nearly assumption-free tests of nominal confidence
+  interval coverage for causal parameters estimated by machine learning",stat
+Sharp bounds on the relative treatment effect for ordinal outcomes,stat
+Glioma Grade Prediction Using Wavelet Scattering-Based Radiomics,cs
+"Preventing Gradient Attenuation in Lipschitz Constrained Convolutional
+  Networks",cs
+Locality-Sensitive Hashing Scheme based on Longest Circular Co-Substring,cs
+Configuration-Space Flipper Planning for Rescue Robots,cs
+"Six constructions of asymptotically optimal codebooks via the character
+  sums",cs
+Richer priors for infinitely wide multi-layer perceptrons,cs
+"Analysis and Exploitation of Synchronized Parallel Executions in
+  Behavior Trees",cs
+Rough-Fuzzy CPD: A Gradual Change Point Detection Algorithm,stat
+"Security for People with Mental Illness in Telehealth Systems: A
+  Proposal",cs
+Sequential Adaptive Design for Jump Regression Estimation,stat
+"A Bayesian Zero-Inflated Negative Binomial Regression Model for the
+  Integrative Analysis of Microbiome Data",stat
+"A Novel Method for Scalable VLSI Implementation of Hyperbolic Tangent
+  Function",cs
+Recommending Dream Jobs in a Biased Real World,cs
+Cross-validation based adaptive sampling for Gaussian process models,stat
+"Multiplierless and Sparse Machine Learning based on Margin Propagation
+  Networks",cs
+Jaccard/Tanimoto similarity test and estimation methods,stat
+Deep Constrained Q-learning,cs
+Towards Testing of Deep Learning Systems with Training Set Reduction,stat
+"The Restricted Isometry of ReLU Networks: Generalization through Norm
+  Concentration",stat
+"Delay Optimal Cross-Layer Scheduling Over Markov Channels with Power
+  Constraint",cs
+"Shifting attention to old age: Detecting mortality deceleration using
+  focused model selection",stat
+Active multi-fidelity Bayesian online changepoint detection,stat
+"Properties of restricted randomization with implications for
+  experimental design",stat
+"Rapid adjustment and post-processing of temperature forecast
+  trajectories",stat
+Imbalanced classification: an objective-oriented review,stat
+From Zero to Fog: Efficient Engineering of Fog-Based IoT Applications,cs
+"ICFHR 2020 Competition on Image Retrieval for Historical Handwritten
+  Fragments",cs
+AutoAugment: Learning Augmentation Policies from Data,cs
+"An Efficient Statistical-based Gradient Compression Technique for
+  Distributed Training Systems",cs
+MR-RePair: Grammar Compression based on Maximal Repeats,cs
+"SPORES: Sum-Product Optimization via Relational Equality Saturation for
+  Large Scale Linear Algebra",cs
+Convergence and Sample Complexity of SGD in GANs,cs
+InterpretML: A Unified Framework for Machine Learning Interpretability,cs
+"Sparse Identification of Nonlinear Dynamical Systems via Reweighted
+  $\ell_1$-regularized Least Squares",stat
+Data Visualization Practitioners' Perspectives on Chartjunk,cs
+"Energy-Based Reranking: Improving Neural Machine Translation Using
+  Energy-Based Models",cs
+GOOL: A Generic Object-Oriented Language (extended version),cs
+"Towards Robust and Stable Deep Learning Algorithms for Forward Backward
+  Stochastic Differential Equations",stat
+"Particle-based adaptive-lag online marginal smoothing in general
+  state-space models",stat
+The Statistics of Noisy One-Stage Group Testing in Outbreaks,stat
+"Consistency and Certain Answers in Relational to RDF Data Exchange with
+  Shape Constraints",cs
+Minimax Kernel Machine Learning for a Class of Doubly Robust Functionals,stat
+"Wasserstein Distributionally Robust Optimization: Theory and
+  Applications in Machine Learning",stat
+Bayesian Factor Analysis for Inference on Interactions,stat
+"Generalizing Randomized Trial Findings to a Target Population using
+  Complex Survey Population Data",stat
+"Queue-Learning: A Reinforcement Learning Approach for Providing Quality
+  of Service",cs
+"Causal variance decompositions for institutional comparisons in
+  healthcare",stat
+Inferring medication adherence from time-varying health measures,stat
+"$\sigma$-Ridge: group regularized ridge regression via empirical Bayes
+  noise level cross-validation",stat
+"Comprehensive Privacy Analysis of Deep Learning: Passive and Active
+  White-box Inference Attacks against Centralized and Federated Learning",stat
+"Modelling Time-Varying Rankings with Autoregressive and Score-Driven
+  Dynamics",stat
+Tessellated Wasserstein Auto-Encoders,stat
+Finite Sample Hypothesis Tests for Stacked Estimating Equations,stat
+GPflux: A Library for Deep Gaussian Processes,stat
+Clustering Airbnb Reviews,stat
+"Ten years of research on ResearchGate, a scoping review using Google
+  Scholar 2008_2017",cs
+Personalized Activity Recognition with Deep Triplet Embeddings,stat
+"InversionNet3D: Efficient and Scalable Learning for 3D Full Waveform
+  Inversion",cs
+"Geom-SPIDER-EM: Faster Variance Reduced Stochastic Expectation
+  Maximization for Nonconvex Finite-Sum Optimization",stat
+"CDPM: Convolutional Deformable Part Models for Semantically Aligned
+  Person Re-identification",cs
+Sparse Optimization Problem with s-difference Regularization,cs
+Improved BiGAN training with marginal likelihood equalization,stat
+Diffeomorphic Learning,stat
+How to read faces without looking at them,cs
+"Visuality in a Cross-disciplinary Battleground: Analysis of Inscriptions
+  in Digital Humanities Journal Publications",cs
+"Prototypical Pseudo Label Denoising and Target Structure Learning for
+  Domain Adaptive Semantic Segmentation",cs
+"The Devil is in Classification: A Simple Framework for Long-tail Object
+  Detection and Instance Segmentation",cs
+"Escaping Saddle Points for Nonsmooth Weakly Convex Functions via
+  Perturbed Proximal Algorithms",cs
+"A Nearest-Neighbor Based Nonparametric Test for Viral Remodeling in
+  Heterogeneous Single-Cell Proteomic Data",stat
+Amortized Probabilistic Detection of Communities in Graphs,stat
+"Dragoon: Advanced Modelling of IP Geolocation by use of Latency
+  Measurements",cs
+"Graph Attention Collaborative Similarity Embedding for Recommender
+  System",cs
+Let's See Clearly: Contaminant Artifact Removal for Moving Cameras,cs
+Drug Package Recommendation via Interaction-aware Graph Induction,cs
+"Question Answering by Reasoning Across Documents with Graph
+  Convolutional Networks",cs
+"A Probabilistic Approach to Identifying Run Scoring Advantage in the
+  Order of Playing Cricket",stat
+Confident Learning: Estimating Uncertainty in Dataset Labels,stat
+Fairness Measures for Regression via Probabilistic Classification,cs
+"Perceptron Synthesis Network: Rethinking the Action Scale Variances in
+  Videos",cs
+Splay trees on trees,cs
+"Control Synthesis for Parametric Timed Automata under Unavoidability
+  Specifications",cs
+"Unsupervised Person Image Generation with Semantic Parsing
+  Transformation",cs
+"Structured Semantic Model supported Deep Neural Network for
+  Click-Through Rate Prediction",stat
+Global-to-Local Neural Networks for Document-Level Relation Extraction,cs
+"Estimating locomotor demands during team play from broadcast-derived
+  tracking data",stat
+"Spatial disease mapping using Directed Acyclic Graph Auto-Regressive
+  (DAGAR) models",stat
+Bounded Invariant Checking for Stateflow Programs,cs
+A Statistical Learning Approach to Modal Regression,stat
+EdgeAI: A Vision for Deep Learning in IoT Era,cs
+"More Is More -- Narrowing the Generalization Gap by Adding
+  Classification Heads",cs
+Point-Based Modeling of Human Clothing,cs
+"False Discovery Rates to Detect Signals from Incomplete Spatially
+  Aggregated Data",stat
+"Investigation of Numerical Dispersion with Time Step of The FDTD
+  Methods: Avoiding Erroneous Conclusions",cs
+Deep Mixture Density Network for Probabilistic Object Detection,cs
+Distance-based Data Cleaning: A Survey (Technical Report),cs
+What is meant by 'P(R|Yobs)'?,stat
+"Modeling High-order Interactions across Multi-interests for Micro-video
+  Recommendation",cs
+"Constant delay enumeration with FPT-preprocessing for conjunctive
+  queries of bounded submodular width",cs
+"Oracle Separations Between Quantum and Non-interactive Zero-Knowledge
+  Classes",cs
+A Bayesian Application in Judicial Decisions,stat
+"Bayesian Regularization of Gaussian Graphical Models with Measurement
+  Error",stat
+Consensus Monte Carlo for Random Subsets using Shared Anchors,stat
+"Multipopulation mortality modelling and forecasting: The multivariate
+  functional principal component with time weightings approaches",stat
+"An application of communication complexity, Kolmogorov complexity and
+  extremal combinatorics to parity games",cs
+Robust Cell-Load Learning with a Small Sample Set,cs
+"Hierarchical Clustering for Smart Meter Electricity Loads based on
+  Quantile Autocovariances",stat
+"Analysing Long Short Term Memory Models for Cricket Match Outcome
+  Prediction",cs
+Systematic statistical analysis of microbial data from dilution series,stat
+On Learnability under General Stochastic Processes,stat
+Bitcoin Security under Temporary Dishonest Majority,cs
+Gaussian Process Priors for View-Aware Inference,stat
+"Variational Auto-Encoder for Recommender Systems with
+  Exploration-Exploitation",stat
+Forecasting the Intra-Day Spread Densities of Electricity Prices,stat
+"Parameter estimation and model selection for water sorption in a wood
+  fibre material",stat
+Sequential change point test in the presence of outliers,stat
+Algorithms for Estimating Trends in Global Temperature Volatility,stat
+"Corrigendum to: ""Linear time algorithm to cover and hit a set of line
+  segments optimally by two axis-parallel squares"", Theoretical Computer
+  Science 769 (2019) 63--74",cs
+PRIN/SPRIN: On Extracting Point-wise Rotation Invariant Features,cs
+Communication-Efficient Local Decentralized SGD Methods,stat
+Detecting anomalies in fibre systems using 3-dimensional image data,stat
+Multi-scale graph principal component analysis for connectomics,stat
+"Reconciling modern machine learning practice and the bias-variance
+  trade-off",stat
+"Dialogue history integration into end-to-end signal-to-concept spoken
+  language understanding systems",cs
+"ShellNet: Efficient Point Cloud Convolutional Neural Networks using
+  Concentric Shells Statistics",cs
+Stochastic Optimization of Sorting Networks via Continuous Relaxations,stat
+Bayesian posterior approximation via greedy particle optimization,stat
+Unbabel's Participation in the WMT20 Metrics Shared Task,cs
+"Modeling the Chlorophyll-a from Sea Surface Reflectance in West Africa
+  by Deep Learning Methods: A Comparison of Multiple Algorithms",cs
